@@ -173,7 +173,7 @@
             // btnAdd
             // 
             this.btnAdd.BackColor = System.Drawing.Color.Cyan;
-            this.btnAdd.Location = new System.Drawing.Point(392, 372);
+            this.btnAdd.Location = new System.Drawing.Point(253, 372);
             this.btnAdd.Name = "btnAdd";
             this.btnAdd.Size = new System.Drawing.Size(120, 45);
             this.btnAdd.TabIndex = 7;
