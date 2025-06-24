@@ -1,0 +1,14 @@
+C:\DITP2123\Labtest2\LABTEST2\LABTEST2\bin\Debug\AdmiralBookstoreDatabase.mdf
+C:\DITP2123\Labtest2\LABTEST2\LABTEST2\bin\Debug\AdmiralBookstoreDatabase_log.ldf
+C:\DITP2123\Labtest2\LABTEST2\LABTEST2\bin\Debug\LABTEST2.exe.config
+C:\DITP2123\Labtest2\LABTEST2\LABTEST2\bin\Debug\LABTEST2.exe
+C:\DITP2123\Labtest2\LABTEST2\LABTEST2\bin\Debug\LABTEST2.pdb
+C:\DITP2123\Labtest2\LABTEST2\LABTEST2\obj\Debug\LABTEST2.csproj.AssemblyReference.cache
+C:\DITP2123\Labtest2\LABTEST2\LABTEST2\obj\Debug\LABTEST2.FormAuthor.resources
+C:\DITP2123\Labtest2\LABTEST2\LABTEST2\obj\Debug\LABTEST2.formBook.resources
+C:\DITP2123\Labtest2\LABTEST2\LABTEST2\obj\Debug\LABTEST2.formStock.resources
+C:\DITP2123\Labtest2\LABTEST2\LABTEST2\obj\Debug\LABTEST2.Properties.Resources.resources
+C:\DITP2123\Labtest2\LABTEST2\LABTEST2\obj\Debug\LABTEST2.csproj.GenerateResource.cache
+C:\DITP2123\Labtest2\LABTEST2\LABTEST2\obj\Debug\LABTEST2.csproj.CoreCompileInputs.cache
+C:\DITP2123\Labtest2\LABTEST2\LABTEST2\obj\Debug\LABTEST2.exe
+C:\DITP2123\Labtest2\LABTEST2\LABTEST2\obj\Debug\LABTEST2.pdb
